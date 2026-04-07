@@ -9,6 +9,12 @@ main{
 
     justify-content: center;
     align-items: center;
+
+    background-image: url("../assets/images/vilare4.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
 }
 
 aside{
@@ -33,22 +39,25 @@ aside{
 
 button {
     padding: 12px 24px;
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     font-size: 16px;
+    color: white;
 }
 
 .btn-primary {
-    background-color: #000000;
+    background-color: #ffffff;
     color: white;
 }
 
 h1 {
     font-size: 56px;
     font-weight: 700;
+    color: white;
 }
 
 p {
     font-size: 18px;
     font-weight: 400;
+    color: white;
 }
 
